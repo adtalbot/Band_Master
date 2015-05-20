@@ -1,5 +1,5 @@
 development:
-  adatper: postgresql
+  adapter: postgresql
   database: band_master_development
   
 test:
